@@ -4,6 +4,16 @@
 
 Learning German vocabulary effectively requires the right tools, resources, and methods. This comprehensive guide brings together the best dictionaries, apps, websites, books, courses, podcasts, YouTube channels, and tools to help you build and maintain a strong German vocabulary. Whether you're a beginner just starting out or an advanced learner looking to fine-tune your vocabulary, you'll find valuable resources here.
 
+<!-- BEGIN gh-mutual-linking -->
+
+### Related projects
+
+- [**web-resources**](https://github.com/awesome-german/web-resources)
+- [**phrases**](https://github.com/awesome-german/phrases)
+- [**ai-translation**](https://github.com/awesome-german/ai-translation) — Neural translation tools and multilingual corpus alignment techniques for German
+- [**cognitive-learning**](https://github.com/awesome-german/cognitive-learning) — Cognitive and neuroscience-based methods for efficient German acquisition
+<!-- END gh-mutual-linking -->
+
 ## Contents
 
 - [Dictionaries](#dictionaries)
