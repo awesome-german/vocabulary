@@ -8,10 +8,21 @@ Learning German vocabulary effectively requires the right tools, resources, and 
 
 ### Related projects
 
+- [**non-regular-use-kanji-research-resource**](https://github.com/japanese-language/non-regular-use-kanji-research-resource) — 表外漢字 (hyōgai kanji / 非常用漢字) research resource map. An annotated, provenance-tracked catalogue of authoritative sources on the kanji outside…
+- [**caddy-midi**](https://github.com/didvc/caddy-midi) — Caddy HTTP handler that serves MIDI files as synthesized audio. Pure Go, no cgo.
+- [**PingTracer-web**](https://github.com/nim-apps/PingTracer-web) — Ping monitor in Nim.
+- [**kana-transliterator**](https://github.com/html-js/kana-transliterator) — Single-file browser tool that transliterates Japanese kana into Cyrillic (Polivanov), Hepburn, French, and German
+- [**sdg**](https://github.com/SDGScript/sdg) — SDGScript | the sustainable programming language. A lighthearted but real tree-walking interpreter in Go.
+- [**simple-desktop-replay**](https://github.com/didvc/simple-desktop-replay) — Always-on rolling replay buffer for the Windows desktop: a low-overhead RAM DVR that keeps the last few minutes of screen so you can save the…
+- [**oss**](https://github.com/simple-netmon/oss) — Network monitor for Windows, local, privacy-respecting, per-app (ETW-first, no Npcap)
+- [**historical-linguistics**](https://github.com/awesome-german/historical-linguistics)
+- [**academic-corpora**](https://github.com/awesome-german/academic-corpora)
+- [**terminology**](https://github.com/awesome-german/terminology)
 - [**web-resources**](https://github.com/awesome-german/web-resources)
-- [**phrases**](https://github.com/awesome-german/phrases)
-- [**ai-translation**](https://github.com/awesome-german/ai-translation) — Neural translation tools and multilingual corpus alignment techniques for German
 - [**cognitive-learning**](https://github.com/awesome-german/cognitive-learning) — Cognitive and neuroscience-based methods for efficient German acquisition
+- [**phrases**](https://github.com/awesome-german/phrases)
+- [**ytnote**](https://github.com/didvc/ytnote) — A note taking app for YouTube and many more. Fully works on Chrome, Firefox, Safari. Built on React.js.
+- [**note-cli**](https://github.com/didvc/note-cli) — Markdown Indexing and Pcre Regular Expression Compatible Full Text Searching for Advanced Note Takers.
 <!-- END gh-mutual-linking -->
 
 ## Contents
