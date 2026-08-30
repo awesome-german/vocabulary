@@ -156,6 +156,7 @@ Learning German vocabulary effectively requires the right tools, resources, and 
 - [Busuu](https://www.busuu.com/) - Language learning app with vocabulary focused lessons and community feedback. Aligned with CEFR levels.
 - [Mondly](https://www.mondly.com/) - Interactive app with daily lessons, AR features, and vocabulary building exercises.
 - [LingoDeer](https://www.lingodeer.com/) - Structured courses with strong grammar and vocabulary focus. Good for systematic learners.
+- [GermanWordsQuiz](https://wisotzky.github.io/quiz/) - German words quiz to be used at cultural events for school kids, parents, and teachers
 
 ### Dictionary Apps
 
