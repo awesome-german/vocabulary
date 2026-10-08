@@ -1,23 +1,17 @@
 # Code of Conduct
 
-This project follows the Code of Conduct defined in our [Contributing Guide](./CONTRIBUTING.md#🤝-code-of-conduct).
+## Our pledge
 
-All contributors and participants are expected to:
-- Communicate with **respect**, **inclusivity**, and **constructive intent**.
-- Avoid **harassment**, **discrimination**, **spam**, or **hostile behavior**.
-- Foster a **collaborative** and **supportive** environment.
+We commit to making participation in this project a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
----
+## Our standards
 
-## Reporting Concerns
+Use welcoming and inclusive language, respect differing viewpoints and experiences, accept constructive criticism, and keep the people who use the list in mind when you make a decision.
 
-If you encounter behavior that violates this Code of Conduct or compromises the community’s trust, please notify the maintainers privately.  
-Reports are reviewed in good faith and addressed as promptly as reasonably possible.
+Harassment of any kind, trolling, insulting or derogatory comments, personal or political attacks, and publishing others' private information without permission are not acceptable.
 
-> Maintainers reserve the right to moderate discussions and contributions to preserve a welcoming environment for all participants.
+## Enforcement
 
----
+Project maintainers may remove, edit, or reject contributions that violate this code of conduct, and may ban contributors who behave unacceptably. Report a problem by opening a GitHub issue or by contacting the maintainers directly.
 
-### Attribution
-
-This document adapts principles from the [Contributor Covenant, v2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) and the [Open Source Guides](https://opensource.guide/).
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1.

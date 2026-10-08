@@ -1,19 +1,17 @@
 cff-version: 1.2.0
-message: "If you use or reference this Awesome list, please cite it as follows."
-title: "Awesome vocabulary building Resources"
+title: "awesome-german/vocabulary"
+message: "If you use or reference this list, please cite it using the metadata from this file."
+type: dataset
 authors:
-  - family-names: "Maintainers"
-    given-names: "Awesome List"
-    affiliation: "Open Source Community"
-repository-code: "https://github.com/awesome-german/awesome-german/vocabulary"
-url: "https://github.com/awesome-german/awesome-german/vocabulary"
-version: "1.0.0"
-date-released: "2025-11-11"
+  - name: "Aesthetic Vulpes"
+    alias: didvc
+    website: "https://github.com/didvc"
+repository-code: "https://github.com/awesome-german/vocabulary"
+url: "https://github.com/awesome-german/vocabulary"
+license: CC-BY-4.0
+abstract: "Curated resources and tools to expand German vocabulary by topic, frequency, and context."
 keywords:
   - awesome-list
-  - curated
-  - resources
-license: "CC-BY-4.0"
-abstract: >
-  A curated collection of high-quality resources on vocabulary building.
-  Contributions are welcome.
+  - german
+  - language-learning
+  - vocabulary

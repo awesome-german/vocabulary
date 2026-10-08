@@ -4,27 +4,6 @@
 
 Learning German vocabulary effectively requires the right tools, resources, and methods. This comprehensive guide brings together the best dictionaries, apps, websites, books, courses, podcasts, YouTube channels, and tools to help you build and maintain a strong German vocabulary. Whether you're a beginner just starting out or an advanced learner looking to fine-tune your vocabulary, you'll find valuable resources here.
 
-<!-- BEGIN gh-mutual-linking -->
-
-### Related projects
-
-- [**non-regular-use-kanji-research-resource**](https://github.com/japanese-language/non-regular-use-kanji-research-resource) — 表外漢字 (hyōgai kanji / 非常用漢字) research resource map. An annotated, provenance-tracked catalogue of authoritative sources on the kanji outside…
-- [**caddy-midi**](https://github.com/didvc/caddy-midi) — Caddy HTTP handler that serves MIDI files as synthesized audio. Pure Go, no cgo.
-- [**PingTracer-web**](https://github.com/nim-apps/PingTracer-web) — Ping monitor in Nim.
-- [**kana-transliterator**](https://github.com/html-js/kana-transliterator) — Single-file browser tool that transliterates Japanese kana into Cyrillic (Polivanov), Hepburn, French, and German
-- [**sdg**](https://github.com/SDGScript/sdg) — SDGScript | the sustainable programming language. A lighthearted but real tree-walking interpreter in Go.
-- [**simple-desktop-replay**](https://github.com/didvc/simple-desktop-replay) — Always-on rolling replay buffer for the Windows desktop: a low-overhead RAM DVR that keeps the last few minutes of screen so you can save the…
-- [**oss**](https://github.com/simple-netmon/oss) — Network monitor for Windows, local, privacy-respecting, per-app (ETW-first, no Npcap)
-- [**historical-linguistics**](https://github.com/awesome-german/historical-linguistics)
-- [**academic-corpora**](https://github.com/awesome-german/academic-corpora)
-- [**terminology**](https://github.com/awesome-german/terminology)
-- [**web-resources**](https://github.com/awesome-german/web-resources)
-- [**cognitive-learning**](https://github.com/awesome-german/cognitive-learning) — Cognitive and neuroscience-based methods for efficient German acquisition
-- [**phrases**](https://github.com/awesome-german/phrases)
-- [**ytnote**](https://github.com/didvc/ytnote) — A note taking app for YouTube and many more. Fully works on Chrome, Firefox, Safari. Built on React.js.
-- [**note-cli**](https://github.com/didvc/note-cli) — Markdown Indexing and Pcre Regular Expression Compatible Full Text Searching for Advanced Note Takers.
-<!-- END gh-mutual-linking -->
-
 ## Contents
 
 - [Dictionaries](#dictionaries)
@@ -508,6 +487,12 @@ Learning German vocabulary effectively requires the right tools, resources, and 
 - [Input Hypothesis and Vocabulary](https://www.sk.com.br/sk-krash.html) - Theoretical framework for vocabulary acquisition.
 - [Extensive Reading Research](https://erfoundation.org/) - Evidence for vocabulary learning through reading.
 - [Vocabulary Learning Strategies](https://www.cambridge.org/core/books/teaching-and-learning-vocabulary/vocabulary-learning-strategies/F4F52FB0C7ACB5E30DBE2FBA02418C85) - Academic overview of effective strategies.
+
+## Disclaimer
+
+This independent, curated list points to third-party resources. None of the projects, publishers, platforms or organizations it links to have affiliated with, sponsored or endorsed it, and all names and trademarks belong to their owners.
+
+Other people run the linked sites, so their content, availability, prices and terms can change at any time. A listing here doesn't guarantee a resource's accuracy, safety or quality, so check each resource's own terms before you use it or pay for anything. Corrections and removal requests are welcome as issues.
 
 ## Contributing
 
@@ -1405,3 +1390,25 @@ Whether you're learning German for travel, work, study, or personal interest, th
 ---
 
 *This list is continuously updated. Last major update: 2025. For the most current information, always check official websites and resources directly.*
+
+## License
+
+The text of this list is licensed under [CC BY 4.0](LICENSE). Linked resources are covered by their own licenses and terms.
+
+Copyright © 2025-2026 Aesthetic Vulpes ([github.com/didvc](https://github.com/didvc)). If you reuse or cite this list, credit Aesthetic Vulpes and link to this repository. Citation metadata is in [CITATION.cff](CITATION.cff).
+
+<!-- BEGIN gh-mutual-linking -->
+
+---
+
+### Related projects
+
+- [flashcards](https://github.com/awesome-german/flashcards): Best flashcard tools, decks, and spaced repetition strategies for memorizing German words and phrases.
+- [phrases](https://github.com/awesome-german/phrases): Common German phrases and expressions for everyday conversation.
+- [apps](https://github.com/awesome-german/apps): Mobile and web apps for mastering German vocabulary, grammar, and speaking skills effectively.
+- [reading](https://github.com/awesome-german/reading): Articles, short stories, and graded reading materials to enhance comprehension and fluency in German.
+- [terminology](https://github.com/awesome-german/terminology): Terminological databases, domain-specific glossaries, dictionaries, and resources for technical German language learning and professional translation.
+- [cognitive-learning](https://github.com/awesome-german/cognitive-learning): Cognitive and neuroscience-based methods for efficient German acquisition.
+- [kids](https://github.com/awesome-german/kids): Fun and interactive German learning materials designed specifically for children and beginners.
+
+<!-- END gh-mutual-linking -->
