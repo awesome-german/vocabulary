@@ -350,6 +350,7 @@ Learning German vocabulary effectively requires the right tools, resources, and 
 
 - [Anki Desktop](https://apps.ankiweb.net/) - Desktop version of the powerful flashcard software with syncing capabilities.
 - [LingQ Desktop](https://www.lingq.com/) - Desktop app for reading and vocabulary learning with imported content.
+- [NearWord](https://nearword.app/) - Point at a German word anywhere on screen, even in a game or a scanned PDF, and see it in an offline German-English or German-German dictionary. For Mac and Windows. Free, with an optional paid AI feature.
 - [Rosetta Stone Desktop](https://www.rosettastone.com/) - Comprehensive learning software with offline capability.
 - [VocabTrainer Desktop](https://www.phase-6.de/) - German vocabulary training software with publisher content integration.
 
